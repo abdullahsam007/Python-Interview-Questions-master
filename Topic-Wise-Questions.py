@@ -317,15 +317,7 @@
 
 # 6) Compress a string if aaa then a3 if aabb then a2b2
 
-def compress(s1, s2):
-    
-    
-    
-    
-    
-s1 = ''
-s2 = ''    
-compress(s1, s2)
+
 
 
 

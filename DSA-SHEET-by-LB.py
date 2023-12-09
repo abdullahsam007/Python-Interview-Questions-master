@@ -33,6 +33,21 @@
 #     return kth_min, kth_max
 # kth(1,4,5,6,3)
 # k = 3
+
+
+# Given an array which consists of only 0, 1 and 2. Sort the array without using any sorting algo
+
+# class Sorting:
+#     def letSort(self, arr, n):
+#         return arr.sort() 
+        
+#     letSort(0,1,4)
+
+
+# 
+    
+
+
     
     
     
