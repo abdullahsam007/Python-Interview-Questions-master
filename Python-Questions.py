@@ -75,6 +75,15 @@
 
 
 
+# pentaloop questions
+
+# 1) Check if linkedlist has a loop
+# 2) Find the minimum difference between any pair in the array.
+# 3) ANAGRAMS
+# 4) Given a string, Find the first non-repeating character in it. 
+
+
+
 
 
 
