@@ -3,6 +3,8 @@
 # a  = ['ali','ila']
 # print(a[::-1])
 
+
+
 # Find the maximum and minimum element in an array
 
 # arr = [5,3,4,2]
@@ -17,6 +19,9 @@
 #         minval = i
         
 # print(maxval, minval)
+
+
+
 
 
 # Find the “Kth” max and min element of an array
@@ -35,6 +40,9 @@
 # k = 3
 
 
+
+
+
 # Given an array which consists of only 0, 1 and 2. Sort the array without using any sorting algo
 
 # class Sorting:
@@ -44,7 +52,62 @@
 #     letSort(0,1,4)
 
 
+
+
+
+
+# Move all negative elements to the end
+
+# arr = [2, 1, 3, -4, 5, -6]
+
+# positive = [num for num in arr if num >= 0]
+# negative = [num for num in arr if num < 0]
+
+# final  = positive + negative
+# print(final)
+
+
+
+
+# Find the UNION and INTERSECTION of two arrays
+# a = [1,2,4,5]
+# b = [2,3,4,7]
+
+# c = set(a)
+# d = set(b)
+
+# intersection = c & d
+# print(intersection)
+
+# union = c | d
+# print(union)
+
+
+
+
+
+
+# Left rotate the last element
+
+# arr = [1, 2, 6, 4, 8, 42]
+# last = arr[-1]
+
+# rotated_array = [last] + arr[:-1]
+# print(rotated_array)
+
+
+
+
+
+
 # 
+
+
+
+
+
+
+
     
 
 

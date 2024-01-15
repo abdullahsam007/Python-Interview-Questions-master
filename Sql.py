@@ -14,3 +14,15 @@
 
 
 
+# sperdian tech
+
+# 1) print fname and lname from table into a single coloumn fullname. a space char should separate them.
+# 2) print the details of students who got admission in feb 2021
+
+# Pentaloop
+
+# 1) third highest salary from the table
+# 2) 
+
+
+
