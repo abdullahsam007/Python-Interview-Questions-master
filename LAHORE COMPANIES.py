@@ -8,8 +8,8 @@
 
 # Sperdian Technologies questions
 
-# 1) How to get matching element in integer array
-# 2) How to traverse to the middle of linkedlist
+# 5) How to get matching element in integer array
+# 6) How to traverse to the middle of linkedlist
 
 
 
@@ -40,6 +40,28 @@
         
         
 # print(min_difference)
+
+
+# 5) How to get matching element in an array
+
+# arr = [1,1,2,3,4,5,5]
+
+# n = len(arr)
+# matching_element = []
+
+# for i in range(n):
+#     for j in range(i + 1, n):
+#         if arr[i] == arr[j]:
+#             matching_element.append(arr[i])
+            
+# print(matching_element)
+
+
+
+# 2) Find the first non repeating character in string
+
+
+
 
 
 

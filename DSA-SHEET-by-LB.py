@@ -99,8 +99,53 @@
 
 
 
+# Median of two sorted arrays of Different sizes
 
-# 
+# a = [1, 5, 9]
+# b = [2, 3, 6, 7]
+
+# c = a + b
+# arr = sorted(c)
+
+# n = len(arr)
+
+# if n % 2 == 1:
+#     # Odd number of elements
+#     median = arr[n // 2]
+# else:
+#     # Even number of elements
+#     median = (arr[n // 2 - 1] + arr[n // 2]) / 2
+
+# print("Median:", median)
+
+
+
+
+
+
+
+# Median of one unsorted array
+# a = [10, 5, 9, 2, 3, 7]
+
+# arr = sorted(a)
+
+# n = len(arr)
+
+# if n % 2 == 1:
+#     # Odd number of elements
+#     median = arr[n // 2]
+# else:
+#     # Even number of elements
+#     median = (arr[n // 2 - 1] + arr[n // 2]) / 2
+
+# print("Median:", median)
+
+
+
+
+
+# Check if the array is palindromic or not
+
 
 
 
