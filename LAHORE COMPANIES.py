@@ -60,6 +60,24 @@
 
 # 2) Find the first non repeating character in string
 
+# def first_non_repeating_char(s):
+#     d = {}
+
+#     for i in s:
+#         if i not in d.keys():
+#             d[i] = 0
+#         d[i] = d[i] + 1
+
+#     for char, count in d.items():
+#         if count == 1:
+#             print("First non-repeating character is:", char)
+#             return
+
+#     print("No non-repeating character found")
+
+# s = "pentaloop"
+# first_non_repeating_char(s)
+
 
 
 
