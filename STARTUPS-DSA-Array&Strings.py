@@ -86,6 +86,63 @@
 
 # 6) First missing positive
 
+# arr = [2,4,-1,1]
+
+# filtered_array = [num for num in arr if num > 0]
+# # arr = [2,4,1]
+
+# filtered_array.sort()
+# # arr = [1,2,4]
+
+# smallest_missing = 1
+# for i in filtered_array:
+#     if i == smallest_missing:
+#         smallest_missing += 1
+#     elif i > smallest_missing:
+#         break
+# print("Missing number is: ",smallest_missing)
+
+
+
+
+
+# 7) Bubble Sort Algorithm
+
+# arr = [6,2,8,4,10]
+
+# n = len(arr)
+
+# for i in range(n):
+#     for j in range(i+1 ,n):
+#         if arr[i] > arr[j]:
+#             temp = arr[i]
+#             arr[i] = arr[j]
+#             arr[j] = temp
+            
+# print("Bubble Sorted Array: ",arr)
+
+
+
+# 8) Insertion sort 
+
+# arr = [2,8,5,3,9,4,1]
+# n = len(arr)
+
+# for i in range(n):
+#     for j in range(i+1, n):
+        
+#         if arr[i] > arr[j]:
+#             arr[i],arr[j] = arr[j],arr[i]
+            
+# print("Insertion Sorted Array: ",arr)
+            
+            
+    
+    
+
+
+
+
 
 
 
