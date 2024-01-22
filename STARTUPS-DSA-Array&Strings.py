@@ -135,6 +135,10 @@
 #             arr[i],arr[j] = arr[j],arr[i]
             
 # print("Insertion Sorted Array: ",arr)
+
+
+
+# 9) 
             
             
     
@@ -202,6 +206,18 @@
 
 # s = "pentaloop"
 # first_non_repeating_char(s)
+
+
+
+# 4) Check permuatation
+
+# string1 = "HEY"
+# string2 = "EYH"
+
+# if sorted(string1) == sorted(string2):
+#     print("Strings provided are anagram!")
+# else:
+#     print("Not Anagrams!")
 
 
 
