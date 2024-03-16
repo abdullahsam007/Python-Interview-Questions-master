@@ -171,7 +171,7 @@
 
 # 2) Encoding String
 
-# s = "aaaabbbccdaa"
+# s = "aaaabbbccdaa" 
 # count = 1
 # result = ""
 
@@ -191,21 +191,23 @@
 
 # def first_non_repeating_char(s):
 #     d = {}
-
+    
 #     for i in s:
-#         if i not in d.keys():
+#         if i not in d:
 #             d[i] = 0
-#         d[i] = d[i] + 1
+#         d[i] += 1
 
-#     for char, count in d.items():
-#         if count == 1:
+   
+#     for char in d:
+#         if d[char] == 1:
 #             print("First non-repeating character is:", char)
 #             return
-
+        
 #     print("No non-repeating character found")
 
 # s = "pentaloop"
 # first_non_repeating_char(s)
+
 
 
 
